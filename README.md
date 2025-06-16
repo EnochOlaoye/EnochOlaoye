@@ -1,6 +1,6 @@
 ## Hi I'm Enoch 
 
-Software Development Student <br/>
+I’m a 3rd Year software development student with a strong passion for building practical and user-friendly applications. Experienced in C#, Java, and web technologies, I enjoy tackling coding challenges and continuously expanding my skill set. Always eager to collaborate on interesting projects and contribute to open-source. <br/>
 
 # 💫 About Me:
 I'm a software development student
