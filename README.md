@@ -3,11 +3,7 @@
 I’m a 3rd Year software development student with a strong passion for building practical and user-friendly applications. Experienced in C#, C, Java, and web technologies, I enjoy tackling coding challenges and continuously expanding my skill set. Always eager to collaborate on interesting projects <br/>
 
 # 💫 About Me:
-I'm a software development student
-
-
-# 💫 About Me:
-Currently looking for a internship/placement for January 2026
+I'm a software development student Currently looking for a Internship/Placement for January 2026
 
 
 ## 🌐 Socials:
